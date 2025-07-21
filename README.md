@@ -19,4 +19,4 @@ A simple Python script to generate QR codes from any text or URL input using the
 - `qrcode` module  
   You can install it using pip:
   ```bash
-  pip install qrcode[pil]
+  pip install qrcode
